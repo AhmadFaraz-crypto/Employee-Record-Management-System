@@ -1,0 +1,2 @@
+# Employee-Record-Management-System
+This is employee management record.. In this program System, new user log in id. his id add in this list then when he log in his id that your work time will be start... and then your finish your work so please log in your id...then this program count your salary and u can check your salary.. same procedure in permanent employee but then program show him monthly salary..
